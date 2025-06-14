@@ -6,7 +6,7 @@ export default function Header() {
     <div>
       <div className="flex flex-row justify-between items-center">
         <h1></h1>
-        <Image src={"/logo.svg"} width={100} height={60} alt="logo" />
+        
       </div>
     </div>
   );

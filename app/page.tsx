@@ -4,6 +4,3 @@ import React from "react";
 export default function Page() {
   return redirect("/tools/sin-generator/");
 }
-
-
-
