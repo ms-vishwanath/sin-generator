@@ -7,5 +7,3 @@ export default function Page() {
 
 
 
-
-Let me know if you want a working tool (CLI, web app, or package) or the implementation in a specific language like Python, Go, or Java.
